@@ -12,6 +12,7 @@
 		1BE71E9C1C4C624400F14733 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BE71E9A1C4C624400F14733 /* Main.storyboard */; };
 		1BE71E9E1C4C624400F14733 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BE71E9D1C4C624400F14733 /* Assets.xcassets */; };
 		1BE71EA11C4C624400F14733 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BE71E9F1C4C624400F14733 /* LaunchScreen.storyboard */; };
+		1BE71EA91C4C627F00F14733 /* bach.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1BE71EA81C4C627F00F14733 /* bach.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1BE71E9D1C4C624400F14733 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BE71EA01C4C624400F14733 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BE71EA21C4C624400F14733 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BE71EA81C4C627F00F14733 /* bach.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bach.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1BE71E961C4C624400F14733 /* AppDelegate.swift */,
 				1BE71E981C4C624400F14733 /* ViewController.swift */,
+				1BE71EA81C4C627F00F14733 /* bach.mp3 */,
 				1BE71E9A1C4C624400F14733 /* Main.storyboard */,
 				1BE71E9D1C4C624400F14733 /* Assets.xcassets */,
 				1BE71E9F1C4C624400F14733 /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BE71EA91C4C627F00F14733 /* bach.mp3 in Resources */,
 				1BE71EA11C4C624400F14733 /* LaunchScreen.storyboard in Resources */,
 				1BE71E9E1C4C624400F14733 /* Assets.xcassets in Resources */,
 				1BE71E9C1C4C624400F14733 /* Main.storyboard in Resources */,
